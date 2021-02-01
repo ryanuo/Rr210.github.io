@@ -42,6 +42,25 @@
     
     
     <entry>
+      <title>CSS知识回顾（11）</title>
+      <link href="posts/38635/"/>
+      <url>posts/38635/</url>
+      
+        <content type="html"><![CDATA[<div class="tip important font5 fas fa-home faa-horizontal animated"><p>CSS移动端的知识回顾</p><p></p></div><h2 id="常见布局"><a href="#常见布局" class="headerlink" title="常见布局"></a>常见布局</h2><ol><li>流式布局（百分比布局）–重点宽度</li></ol><ul><li>加最大值或者最小值控制max-width/min-width</li></ul><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">&lt;meta name&#x3D;&quot;viewport&quot; content&#x3D;&quot;width&#x3D;device-width, initial-scale&#x3D;1.0, user-scalable&#x3D;no,maximum-scale&#x3D;1.0,minimum-scale&#x3D;1.0&quot;&gt;</span><br><span class="line"></span><br></pre></td></tr></table></figure><ul><li>二倍精灵图</li></ul><ol><li>将精灵图缩放为原来的一半</li><li>在测算距离</li><li>在缩放代码里面的精灵图大小<code>background-size:缩放为原来的一半用px</code></li></ol><ol start="2"><li>*flex布局</li></ol><p><span class="inline-tag green">flex布局</span></p><ul><li>原理：给父级添加flex属性来控制子盒子</li><li>弹性布局，任何一个容器都可以指定fiex布局</li><li>当为父元素设为flex后，<code>float,clear,vertical-align</code>属性将失效</li><li>flex容器，孩子为flex项目（flex item）</li></ul><h4 id="flex父级属性"><a href="#flex父级属性" class="headerlink" title="flex父级属性"></a>flex父级属性</h4><ol><li><code>flex-diection</code>:设置<code>主轴</code>的方向</li></ol><ul><li>默认主轴水平向右<code>row</code>,侧轴是水平向下的y轴</li><li>翻转<code>row-reverse</code></li><li><code>column</code>主轴变为y轴</li></ul><ol start="2"><li><code>justify-content</code>设置<code>主轴</code>上的子元素排列方式<code>flex-start/flex-end/center</code></li></ol><ul><li><code>sapce-around</code>平分剩余的空间，<code>space-between</code>先两边贴边再分配剩余的空间</li><li><code>space-evenly</code>将元素平均分配</li></ul><ol start="3"><li><code>flex-wrap</code>设置子元素是否换行，默认是<code>不换行</code>的(nowrap)wrap</li><li><code>align-items</code>设置侧轴上的子元素的排列方式（<code>单行</code>）<code>flex-start/flex-end/center/stretch</code></li><li><code>align-content</code>出现子项换行的情况，设置侧轴上的子元素的排列方式（<code>多行</code>）,<code>在单行下是没有效果的</code></li></ol><ul><li>flex-start</li><li>flex-end</li><li>space-between</li><li>space-around</li><li>stretch</li></ul><ol start="6"><li>flex-flow:flex-direction，flex-wrap</li></ol><h4 id="flex子项属性"><a href="#flex子项属性" class="headerlink" title="flex子项属性"></a>flex子项属性</h4><ol><li>flex子项目占的份数 <code>flex=number</code>默认为0从剩余空间分配份数</li><li><code>align-self</code>控制某个子项在侧轴上的的排列方式</li><li><code>order</code>数值<code>越小越靠前</code>，默认为0</li></ol><h2 id="背景渐变"><a href="#背景渐变" class="headerlink" title="背景渐变"></a>背景渐变</h2><ol><li>背景线性渐变<br>background:-webkit-linear-gradient(left,red,blue)<details green><summary> <p>查看例子</p> </summary>              <div class='content'>              <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">background: -webkit-gradient(linear,left top,right top,from(#34c2aa),to(#6cd557));</span><br><span class="line">background: linear-gradient(to right,#34c2aa,#6cd557);</span><br></pre></td></tr></table></figure>              </div>            </details></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习笔记 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>使用auto.js实现定时企业微信健康打卡</title>
       <link href="posts/24e42e9f/"/>
       <url>posts/24e42e9f/</url>
