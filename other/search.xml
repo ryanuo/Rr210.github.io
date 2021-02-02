@@ -23,6 +23,25 @@
     
     
     <entry>
+      <title>CSS3知识回顾（12）</title>
+      <link href="posts/20633/"/>
+      <url>posts/20633/</url>
+      
+        <content type="html"><![CDATA[<h2 id="rem布局"><a href="#rem布局" class="headerlink" title="rem布局"></a>rem布局</h2><ol><li><code>em</code>是父元素的大小,字符</li></ol><ul><li>相对与<code>父元素</code>的字体大小</li></ul><ol start="2"><li><code>rem</code>的基准是相对于<code>html</code>的字体大小</li></ol><ul><li>优势：可以通过修改html里面的文字大小来改变页面中的元素的大小来整体控制页面</li></ul><h2 id="媒体查询"><a href="#媒体查询" class="headerlink" title="媒体查询"></a>媒体查询</h2><ol><li>可以针对不同的屏幕的尺寸设置不同的样式</li></ol><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">@media mediatype and|not|only(media feature)&#123;&#125;</span><br></pre></td></tr></table></figure><ol start="2"><li>媒体类型</li></ol><ul><li>all</li><li>print</li><li>scree(用于电脑屏幕，平板，手机)</li></ul><ol start="3"><li>关键字</li></ol><ul><li>and</li><li>not</li><li>only</li></ul><ol start="3"><li>媒体特性</li></ol><ul><li>max-width/min</li><li><code>从小到大</code>写代码更简洁，使用层叠性</li></ul><ol start="4"><li>媒体查询+rem实现元素的动态变化</li><li>媒体查询引入资源link</li></ol><h2 id="less"><a href="#less" class="headerlink" title="less"></a>less</h2><ol><li>css的扩展语言，Sass,less,Stylus</li><li>less变量</li></ol><ul><li>@color(变量名区分大小写)</li></ul><ol start="3"><li>less编译 easy less</li><li>less嵌套子元素的样式直接写道父元素里面就好了</li></ol><ul><li>伪元素要加<code>&amp;</code></li></ul><ol start="5"><li>使用less运算方便计算（有空格隔开）</li></ol><ul><li>运算过程中两个都有单位以第一个为准</li></ul><ol start="6"><li>import在样式文件中相导入</li></ol><h2 id="rem适配方案"><a href="#rem适配方案" class="headerlink" title="rem适配方案"></a>rem适配方案</h2><ol><li>实现页面元素的自适应，实现等比缩放的适配</li><li>rem适配方案<code>flexible.js</code></li><li>flexible.js在宽度超出750px后使用媒体查询，强制修改宽度为75px</li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习笔记 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>auto.js的学习笔记</title>
       <link href="posts/b562470d/"/>
       <url>posts/b562470d/</url>
