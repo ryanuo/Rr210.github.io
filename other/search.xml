@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>CSS3知识回顾（13）+(git commit)规范写法</title>
+      <link href="posts/20691/"/>
+      <url>posts/20691/</url>
+      
+        <content type="html"><![CDATA[<div class="tip important font5 fas fa-home faa-horizontal animated"><p>包括git commit -m "git message"规范化使用等等，还有CSS3响应式笔记</p><p></p></div><h2 id="git指令"><a href="#git指令" class="headerlink" title="git指令"></a>git指令</h2><ol><li>git –version 查看git版本</li><li>git diff 比较文件的不同，及暂存区（staging area）和工作区(workspace)的差异</li></ol><h3 id="git-commit的规范化"><a href="#git-commit的规范化" class="headerlink" title="git commit的规范化"></a>git commit的规范化</h3><blockquote><p>格式：<code>&lt;type&gt;(&lt;scope&gt;):&lt;subjext&gt;</code></p></blockquote><details green><summary> <p>type类别说明</p> </summary>              <div class='content'>              <p>type(必须)</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line">feat：新功能（feature）。</span><br><span class="line">fix&#x2F;to：修复bug，可以是QA发现的BUG，也可以是研发自己发现的BUG。</span><br><span class="line">fix：产生diff并自动修复此问题。适合于一次提交直接修复问题</span><br><span class="line">to：只产生diff不自动修复此问题。适合于多次提交。最终修复问题提交时使用fix</span><br><span class="line">docs：文档（documentation）。</span><br><span class="line">style：格式（不影响代码运行的变动）。</span><br><span class="line">refactor：重构（即不是新增功能，也不是修改bug的代码变动）。</span><br><span class="line">perf：优化相关，比如提升性能、体验。</span><br><span class="line">test：增加测试。</span><br><span class="line">chore：构建过程或辅助工具的变动。</span><br><span class="line">revert：回滚到上一个版本。</span><br><span class="line">merge：代码合并。</span><br><span class="line">sync：同步主线或分支的Bug。</span><br></pre></td></tr></table></figure>              </div>            </details><details green><summary> <p>scope类别说明</p> </summary>              <div class='content'>              <p>scope(可选)</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">scope用于说明 commit 影响的范围，比如数据层、控制层、视图层等等，视项目不同而不同。</span><br><span class="line">例如在Angular，可以是location，browser，compile，compile，rootScope， ngHref，ngClick，ngView等。如果你的修改影响了不止一个scope，你可以使用*代替。</span><br></pre></td></tr></table></figure>              </div>            </details><h2 id="查看信息"><a href="#查看信息" class="headerlink" title="查看信息"></a>查看信息</h2><details green><summary> <p>查看信息</p> </summary>              <div class='content'>              <ol><li><p>#显示有变更的文件<br>$ git status</p></li><li><p>#显示当前分支的版本历史<br>$ git log</p></li><li><p>#显示commit历史，以及每次commit发生变更的文件<br>$ git log –stat</p></li><li><p>#搜索提交历史，根据关键词<br>$ git log -S [keyword]</p></li><li><p>#显示某个commit之后的所有变动，每个commit占据一行<br>$ git log [tag] HEAD –pretty=format:%s</p></li><li><p>#显示某个commit之后的所有变动，其”提交说明”必须符合搜索条件<br>$ git log [tag] HEAD –grep feature</p></li><li><p>#显示某个文件的版本历史，包括文件改名<br>$ git log –follow [file]<br>$ git whatchanged [file]</p></li><li><p>#显示指定文件相关的每一次diff<br>$ git log -p [file]</p></li><li><p>#显示过去5次提交<br>$ git log -5 –pretty –oneline</p></li><li><p>#显示所有提交过的用户，按提交次数排序<br>$ git shortlog -sn</p></li><li><p>#显示指定文件是什么人在什么时间修改过<br>$ git blame [file]</p></li><li><p>#显示暂存区和工作区的差异<br>$ git diff</p></li><li><p>#显示暂存区和上一个commit的差异<br>$ git diff –cached [file]</p></li><li><p>#显示工作区与当前分支最新commit之间的差异<br>$ git diff HEAD</p></li><li><p>#显示两次提交之间的差异<br>$ git diff [first-branch]…[second-branch]</p></li><li><p>#显示今天你写了多少行代码<br>$ git diff –shortstat “@{0 day ago}”</p></li><li><p>#显示某次提交的元数据和内容变化<br>$ git show [commit]</p></li><li><p>#显示某次提交发生变化的文件<br>$ git show –name-only [commit]</p></li><li><p>#显示某次提交时，某个文件的内容<br>$ git show [commit]:[filename]</p></li><li><p>#显示当前分支的最近几次提交<br>$ git reflog</p></li></ol>              </div>            </details>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习笔记 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>给你的博客顶部添加灯笼特效，牛气冲天</title>
       <link href="posts/8914/"/>
       <url>posts/8914/</url>
