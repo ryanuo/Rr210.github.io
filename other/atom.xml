@@ -6,7 +6,7 @@
   <link href="https://u.mr90.top/other/atom.xml" rel="self"/>
   
   <link href="https://u.mr90.top/"/>
-  <updated>2021-02-11T16:01:58.763Z</updated>
+  <updated>2021-02-12T05:23:58.839Z</updated>
   <id>https://u.mr90.top/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Javascript的知识整理（9）</title>
+    <link href="https://u.mr90.top/posts/23942/"/>
+    <id>https://u.mr90.top/posts/23942/</id>
+    <published>2021-01-26T02:07:50.000Z</published>
+    <updated>2021-02-12T05:23:58.839Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;div class=&quot;tip wtgo font5 fas fa-bolt faa-horizontal animated&quot;&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;querySelector的使用，兼容性较好&lt;/p&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;通过类名获取&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://u.mr90.top/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>JavaScript的知识整理（8）</title>
     <link href="https://u.mr90.top/posts/57816/"/>
     <id>https://u.mr90.top/posts/57816/</id>
     <published>2021-01-25T14:38:39.000Z</published>
-    <updated>2021-02-11T16:01:58.763Z</updated>
+    <updated>2021-02-12T05:23:58.839Z</updated>
     
     
       
@@ -46,7 +71,7 @@
     <link href="https://u.mr90.top/posts/52972/"/>
     <id>https://u.mr90.top/posts/52972/</id>
     <published>2021-01-23T13:52:05.000Z</published>
-    <updated>2021-02-11T16:01:58.763Z</updated>
+    <updated>2021-02-12T05:23:58.839Z</updated>
     
     
       
@@ -69,7 +94,7 @@
     <link href="https://u.mr90.top/posts/34224/"/>
     <id>https://u.mr90.top/posts/34224/</id>
     <published>2021-01-22T03:39:55.000Z</published>
-    <updated>2021-02-11T16:01:58.763Z</updated>
+    <updated>2021-02-12T05:23:58.839Z</updated>
     
     
       
@@ -94,7 +119,7 @@
     <link href="https://u.mr90.top/posts/17777/"/>
     <id>https://u.mr90.top/posts/17777/</id>
     <published>2021-01-21T04:45:43.000Z</published>
-    <updated>2021-02-11T16:01:58.763Z</updated>
+    <updated>2021-02-12T05:23:58.839Z</updated>
     
     
       
@@ -119,7 +144,7 @@
     <link href="https://u.mr90.top/posts/19930/"/>
     <id>https://u.mr90.top/posts/19930/</id>
     <published>2021-01-20T02:18:18.000Z</published>
-    <updated>2021-02-11T16:01:58.763Z</updated>
+    <updated>2021-02-12T05:23:58.839Z</updated>
     
     
       
@@ -144,7 +169,7 @@
     <link href="https://u.mr90.top/posts/39928/"/>
     <id>https://u.mr90.top/posts/39928/</id>
     <published>2021-01-19T01:58:25.000Z</published>
-    <updated>2021-02-11T16:01:58.763Z</updated>
+    <updated>2021-02-12T05:23:58.839Z</updated>
     
     
       
@@ -167,7 +192,7 @@
     <link href="https://u.mr90.top/posts/50650/"/>
     <id>https://u.mr90.top/posts/50650/</id>
     <published>2021-01-18T09:38:30.000Z</published>
-    <updated>2021-02-11T16:01:58.763Z</updated>
+    <updated>2021-02-12T05:23:58.839Z</updated>
     
     
       
@@ -192,7 +217,7 @@
     <link href="https://u.mr90.top/posts/22781/"/>
     <id>https://u.mr90.top/posts/22781/</id>
     <published>2021-01-17T03:14:19.000Z</published>
-    <updated>2021-02-11T16:01:58.763Z</updated>
+    <updated>2021-02-12T05:23:58.839Z</updated>
     
     
       
@@ -217,7 +242,7 @@
     <link href="https://u.mr90.top/posts/49565/"/>
     <id>https://u.mr90.top/posts/49565/</id>
     <published>2021-01-16T07:43:43.000Z</published>
-    <updated>2021-02-11T16:01:58.763Z</updated>
+    <updated>2021-02-12T05:23:58.839Z</updated>
     
     
       
@@ -242,7 +267,7 @@
     <link href="https://u.mr90.top/posts/20691/"/>
     <id>https://u.mr90.top/posts/20691/</id>
     <published>2021-01-15T05:32:27.000Z</published>
-    <updated>2021-02-11T16:01:58.763Z</updated>
+    <updated>2021-02-12T05:23:58.839Z</updated>
     
     
       
@@ -265,7 +290,7 @@
     <link href="https://u.mr90.top/posts/8914/"/>
     <id>https://u.mr90.top/posts/8914/</id>
     <published>2021-01-14T16:34:04.000Z</published>
-    <updated>2021-02-11T16:01:58.763Z</updated>
+    <updated>2021-02-12T05:23:58.839Z</updated>
     
     
       
@@ -290,7 +315,7 @@
     <link href="https://u.mr90.top/posts/45222/"/>
     <id>https://u.mr90.top/posts/45222/</id>
     <published>2021-01-14T07:22:58.000Z</published>
-    <updated>2021-02-11T16:01:58.763Z</updated>
+    <updated>2021-02-12T05:23:58.835Z</updated>
     
     
       
@@ -315,7 +340,7 @@
     <link href="https://u.mr90.top/posts/20633/"/>
     <id>https://u.mr90.top/posts/20633/</id>
     <published>2021-01-14T03:13:02.000Z</published>
-    <updated>2021-02-11T16:01:58.763Z</updated>
+    <updated>2021-02-12T05:23:58.839Z</updated>
     
     
       
@@ -338,7 +363,7 @@
     <link href="https://u.mr90.top/posts/b562470d/"/>
     <id>https://u.mr90.top/posts/b562470d/</id>
     <published>2021-01-13T13:09:32.000Z</published>
-    <updated>2021-02-11T16:01:58.763Z</updated>
+    <updated>2021-02-12T05:23:58.835Z</updated>
     
     
       
@@ -361,7 +386,7 @@
     <link href="https://u.mr90.top/posts/38635/"/>
     <id>https://u.mr90.top/posts/38635/</id>
     <published>2021-01-13T03:34:54.000Z</published>
-    <updated>2021-02-11T16:01:58.763Z</updated>
+    <updated>2021-02-12T05:23:58.839Z</updated>
     
     
       
@@ -386,7 +411,7 @@
     <link href="https://u.mr90.top/posts/24e42e9f/"/>
     <id>https://u.mr90.top/posts/24e42e9f/</id>
     <published>2021-01-12T13:45:18.000Z</published>
-    <updated>2021-02-11T16:01:58.763Z</updated>
+    <updated>2021-02-12T05:23:58.839Z</updated>
     
     
       
@@ -409,7 +434,7 @@
     <link href="https://u.mr90.top/posts/59545/"/>
     <id>https://u.mr90.top/posts/59545/</id>
     <published>2021-01-12T12:54:48.000Z</published>
-    <updated>2021-02-11T16:01:58.763Z</updated>
+    <updated>2021-02-12T05:23:58.839Z</updated>
     
     
       
@@ -434,7 +459,7 @@
     <link href="https://u.mr90.top/posts/48a2f11c/"/>
     <id>https://u.mr90.top/posts/48a2f11c/</id>
     <published>2021-01-11T13:36:35.000Z</published>
-    <updated>2021-02-11T16:01:58.763Z</updated>
+    <updated>2021-02-12T05:23:58.839Z</updated>
     
     
       
@@ -459,7 +484,7 @@
     <link href="https://u.mr90.top/posts/59985/"/>
     <id>https://u.mr90.top/posts/59985/</id>
     <published>2021-01-11T03:17:29.000Z</published>
-    <updated>2021-02-11T16:01:58.763Z</updated>
+    <updated>2021-02-12T05:23:58.839Z</updated>
     
     
       
@@ -473,32 +498,6 @@
     
     
     <category term="技术·教程" scheme="https://u.mr90.top/categories/%E6%8A%80%E6%9C%AF%C2%B7%E6%95%99%E7%A8%8B/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>CSS3和HTML5知识回顾（8）</title>
-    <link href="https://u.mr90.top/posts/58058/"/>
-    <id>https://u.mr90.top/posts/58058/</id>
-    <published>2021-01-10T07:47:15.000Z</published>
-    <updated>2021-02-11T16:01:58.763Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;div class=&quot;tip ffa font5 fas fa-cogs faa-horizontal animated&quot;&gt;&lt;p&gt;回顾html5和css3新增的标签内容&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;/div&gt;
-
-
-&lt;h2 id=&quot;css初始化&quot;&gt;&lt;a href=&quot;#css初始化&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="学习笔记" scheme="https://u.mr90.top/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
   </entry>
