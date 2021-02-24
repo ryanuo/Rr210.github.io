@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>jQuery的知识整理（2）</title>
+      <link href="posts/55376/"/>
+      <url>posts/55376/</url>
+      
+        <content type="html"><![CDATA[<div class="note primary icon flat"><p>jQuery的元素操作，事件处理，委托</p></div><h2 id="元素操作"><a href="#元素操作" class="headerlink" title="元素操作"></a>元素操作</h2><ol><li>创建元素<code>var li = $(&#39;&lt;li&gt;&lt;/li&gt;&#39;)</code></li><li>添加元素</li></ol><ul><li>内部添加 <code>$(&#39;ul&#39;).append(li)</code>  放到内容的后面， prepend  放到内容的前面</li><li>外部添加   <code>$(&#39;ul&#39;).before(li)</code> 放到指定元素的前面，after放到后面，兄弟关系</li></ul><ol start="3"><li>删除元素 <code>$(&#39;ul&#39;).remove()</code>zs的方式， <code>empty</code>或者<code>html(&#39;&#39;)</code>清空元素内的孩子</li></ol><h2 id="事件注册-处理"><a href="#事件注册-处理" class="headerlink" title="事件注册/处理"></a>事件注册/处理</h2><ol><li>事件处理 <code>ele.on(&#123;mouseenter:function()&#123;&#125;,&#125;)</code>,on可以处理一个或多个事件</li><li>相同元素不同处理方法，可以使用<code>on(&#39; &#39;)</code>多个事件用逗号隔开</li></ol><h2 id="事件委托"><a href="#事件委托" class="headerlink" title="事件委托"></a>事件委托</h2><ol><li>on(‘方法’，’子元素’， ‘回调函数’),原理，冒泡处理</li><li>on可以给未来动态创建的元素绑定事件</li><li>事件处理<code>off()</code> 解绑事件   off(‘某个事件’)解绑某个事件  <code>off(&#39;click&#39;,&#39;li&#39;)</code>接触事件委托</li><li><code>one(&#39;&#39;)</code>事件处理 只会触发一次</li><li>自动触发方式</li></ol><ul><li> <code>ele.click()</code></li><li>trigger(‘事件方法’)</li><li>triggerHandler(‘事件方法’)   不会触发元素的默认行为  不会有光标闪烁</li></ul><h2 id="事件对象"><a href="#事件对象" class="headerlink" title="事件对象"></a>事件对象</h2><ol><li>注意有冒泡行为</li><li>拷贝对象$.extend(‘deep’,traget,obj,[objN])  </li><li>true深拷贝完全克隆，而且不会覆盖，如果有相同属性会合并；false浅拷贝，把原来复杂数据类型地址老贝给目标对象，拷贝地址，会将原来的属性覆盖</li></ol><h2 id="多库并存"><a href="#多库并存" class="headerlink" title="多库并存"></a>多库并存</h2><ol><li>将<code>$</code>改为<code>jQuery</code></li><li>让jquery 释放会$的控制权  比如 <code>var demo = jQuery.noConflict()</code></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习笔记 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>jQuery的知识总结（1）</title>
       <link href="posts/47494/"/>
       <url>posts/47494/</url>
@@ -103,7 +122,7 @@
       <link href="posts/40078/"/>
       <url>posts/40078/</url>
       
-        <content type="html"><![CDATA[<div class='tip success faa-horizontal animated'><p>使用JavaScript和CSS3搭建<p></div><h2 id="主页地址"><a href="#主页地址" class="headerlink" title="主页地址"></a>主页地址</h2><blockquote><p>【<a href="https://mr90.top/">Main Page</a>】</p></blockquote><h2 id="主页介绍"><a href="#主页介绍" class="headerlink" title="主页介绍"></a>主页介绍</h2><ol><li>本页面使用<code>rem</code>布局+<code>flex</code>布局</li><li>加入了昼夜模式，可自动切换（使用了JavaScript）</li><li>适配移动端，媒体查询</li><li>主页标题使用 CSS3中的动画，还有文字阴影搭配使用</li><li>Tab栏,昼夜交替使用了<code>JavaScript排他思想</code>，设置自定义属性</li><li>主页加入【<a href="https://u.mr90.top/posts/8914/">牛年灯笼特效</a>】 </li><li>加入鼠标样式，底部引入导航信息栏-仿<code>Rocketdock</code></li></ol><details green><summary> <p>查看图例</p> </summary>              <div class='content'>              <p><img src= "https://cdn.jsdelivr.net/gh/Rr210/hexofixed@0.2/img/load/loading9.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Rr210/image@master/hexo/4/footnav1.gif"></p>              </div>            </details><h2 id="Tab栏介绍"><a href="#Tab栏介绍" class="headerlink" title="Tab栏介绍"></a>Tab栏介绍</h2><ol><li>第一屏</li></ol><ul><li>使用了<code>JavaScript</code>中的<code>node</code>操作比如node的增删，大量使用节点<details green><summary> <p>查看图例</p> </summary>              <div class='content'>              <p><img src= "https://cdn.jsdelivr.net/gh/Rr210/hexofixed@0.2/img/load/loading9.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Rr210/image@master/hexo/4/tab1.gif"></p>              </div>            </details></li></ul><ol start="2"><li>第二屏 </li></ol><ul><li>第二屏沿用第一屏node增删节点，使用BOM，定时器等等<details green><summary> <p>查看图例</p> </summary>              <div class='content'>              <p><img src= "https://cdn.jsdelivr.net/gh/Rr210/hexofixed@0.2/img/load/loading9.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Rr210/image@master/hexo/4/tab2dw.gif"></p>              </div>            </details></li></ul><ol start="3"><li>第三屏 待写</li><li>第四屏 待写</li><li>第五屏 待写</li></ol><h2 id="仓库地址"><a href="#仓库地址" class="headerlink" title="仓库地址"></a>仓库地址</h2><ol><li>我的仓库地址：【<a href="https://github.com/Rr210/javascript/">Github</a>】</li><li>使用时请标明出处谢谢</li></ol>]]></content>
+        <content type="html"><![CDATA[<div class='tip success faa-horizontal animated'><p>使用JavaScript和CSS3搭建<p></div><h2 id="主页地址"><a href="#主页地址" class="headerlink" title="主页地址"></a>主页地址</h2><blockquote><p>【<a href="https://mr90.top/">Main Page</a>】</p></blockquote><h2 id="主页介绍"><a href="#主页介绍" class="headerlink" title="主页介绍"></a>主页介绍</h2><ol><li>本页面使用<code>rem</code>布局+<code>flex</code>布局</li><li>加入了昼夜模式，可自动切换（使用了JavaScript）</li><li>适配移动端，媒体查询</li><li>主页标题使用 CSS3中的动画，还有文字阴影搭配使用</li><li>Tab栏,昼夜交替使用了<code>JavaScript排他思想</code>，设置自定义属性</li><li>主页加入【<a href="https://u.mr90.top/posts/8914/">牛年灯笼特效</a>】 </li><li>加入鼠标样式，底部引入导航信息栏-仿<code>Rocketdock</code></li><li>优化昼夜模式，加入切换昼夜模式提示框，使用JavaScript中的定时器和缓动动画函数+CSS3动画</li><li>pc端底部增加留言板，触碰后显示留言板，使用JavaScript中的缓动动画函数</li><li>去除页面灯笼效果，页面加入jQuery插件,页面去除原生Tab栏使用jQuery框架，加入切换小圆点</li></ol><details green><summary> <p>查看图例</p> </summary>              <div class='content'>              <p><img src= "https://cdn.jsdelivr.net/gh/Rr210/hexofixed@0.2/img/load/loading9.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Rr210/image@master/hexo/4/mainpadge31923.gif"></p>              </div>            </details><h2 id="Tab栏介绍"><a href="#Tab栏介绍" class="headerlink" title="Tab栏介绍"></a>Tab栏介绍</h2><ol><li>第一屏</li></ol><ul><li>使用了<code>JavaScript</code>中的<code>node</code>操作比如node的增删，大量使用节点<details green><summary> <p>查看图例</p> </summary>              <div class='content'>              <p><img src= "https://cdn.jsdelivr.net/gh/Rr210/hexofixed@0.2/img/load/loading9.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Rr210/image@master/hexo/4/tab1.gif"></p>              </div>            </details></li></ul><ol start="2"><li>第二屏 </li></ol><ul><li>第二屏沿用第一屏node增删节点，使用BOM，定时器等等<details green><summary> <p>查看图例</p> </summary>              <div class='content'>              <p><img src= "https://cdn.jsdelivr.net/gh/Rr210/hexofixed@0.2/img/load/loading9.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/Rr210/image@master/hexo/4/tab2dw.gif"></p>              </div>            </details></li></ul><ol start="3"><li>第三屏 待写</li><li>第四屏 待写</li><li>第五屏 待写</li></ol><h2 id="仓库地址"><a href="#仓库地址" class="headerlink" title="仓库地址"></a>仓库地址</h2><ol><li>我的仓库地址：【<a href="https://github.com/Rr210/javascript/">Github</a>】</li><li>使用时请标明出处谢谢</li></ol>]]></content>
       
       
       <categories>
