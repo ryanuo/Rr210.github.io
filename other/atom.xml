@@ -6,7 +6,7 @@
   <link href="https://u.mr90.top/other/atom.xml" rel="self"/>
   
   <link href="https://u.mr90.top/"/>
-  <updated>2021-10-14T04:05:08.941Z</updated>
+  <updated>2022-04-15T07:41:09.218Z</updated>
   <id>https://u.mr90.top/</id>
   
   <author>
@@ -17,11 +17,58 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title></title>
+    <link href="https://u.mr90.top/posts/1/"/>
+    <id>https://u.mr90.top/posts/1/</id>
+    <published>2022-04-15T07:41:09.218Z</published>
+    <updated>2022-04-15T07:41:09.218Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;一-docker学习&quot;&gt;&lt;a href=&quot;#一-docker学习&quot; class=&quot;headerlink&quot; title=&quot;一. docker学习&quot;&gt;&lt;/a&gt;一. docker学习&lt;/h2&gt;&lt;h3 id=&quot;1-镜像（image）&quot;&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>关于深度学习Pytorch</title>
+    <link href="https://u.mr90.top/posts/644213dwa/"/>
+    <id>https://u.mr90.top/posts/644213dwa/</id>
+    <published>2021-12-01T03:34:19.000Z</published>
+    <updated>2022-04-15T07:41:09.218Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;深度学习&quot;&gt;&lt;a href=&quot;#深度学习&quot; class=&quot;headerlink&quot; title=&quot;深度学习&quot;&gt;&lt;/a&gt;深度学习&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;机器语言的分支, 对数据进行特征学习, 人工神经网络为基础&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3</summary>
+        
+      
+    
+    
+    
+    <category term="python" scheme="https://u.mr90.top/categories/python/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Vue3基础知识整理</title>
     <link href="https://u.mr90.top/posts/b5c4b274122/"/>
     <id>https://u.mr90.top/posts/b5c4b274122/</id>
     <published>2021-09-13T16:00:00.000Z</published>
-    <updated>2021-10-14T04:05:08.941Z</updated>
+    <updated>2022-04-15T07:41:09.222Z</updated>
     
     
       
@@ -44,7 +91,7 @@
     <link href="https://u.mr90.top/posts/b5c4b7412/"/>
     <id>https://u.mr90.top/posts/b5c4b7412/</id>
     <published>2021-09-11T16:00:00.000Z</published>
-    <updated>2021-10-14T04:05:08.937Z</updated>
+    <updated>2022-04-15T07:41:09.218Z</updated>
     
     
       
@@ -68,7 +115,7 @@
     <link href="https://u.mr90.top/posts/3171031/"/>
     <id>https://u.mr90.top/posts/3171031/</id>
     <published>2021-09-11T02:34:06.000Z</published>
-    <updated>2021-10-14T04:05:08.941Z</updated>
+    <updated>2022-04-15T07:41:09.218Z</updated>
     
     
       
@@ -93,7 +140,7 @@
     <link href="https://u.mr90.top/posts/31710/"/>
     <id>https://u.mr90.top/posts/31710/</id>
     <published>2021-08-22T02:34:06.000Z</published>
-    <updated>2021-10-14T04:05:08.941Z</updated>
+    <updated>2022-04-15T07:41:09.222Z</updated>
     
     
       
@@ -116,7 +163,7 @@
     <link href="https://u.mr90.top/posts/902/"/>
     <id>https://u.mr90.top/posts/902/</id>
     <published>2021-08-17T02:34:06.000Z</published>
-    <updated>2021-10-14T04:05:08.941Z</updated>
+    <updated>2022-04-15T07:41:09.222Z</updated>
     
     
       
@@ -142,7 +189,7 @@
     <link href="https://u.mr90.top/posts/22540/"/>
     <id>https://u.mr90.top/posts/22540/</id>
     <published>2021-08-08T02:34:06.000Z</published>
-    <updated>2021-10-14T04:05:08.941Z</updated>
+    <updated>2022-04-15T07:41:09.222Z</updated>
     
     
       
@@ -167,7 +214,7 @@
     <link href="https://u.mr90.top/posts/255/"/>
     <id>https://u.mr90.top/posts/255/</id>
     <published>2021-08-05T01:03:14.000Z</published>
-    <updated>2021-10-14T04:05:08.941Z</updated>
+    <updated>2022-04-15T07:41:09.222Z</updated>
     
     
       
@@ -192,7 +239,7 @@
     <link href="https://u.mr90.top/posts/35598/"/>
     <id>https://u.mr90.top/posts/35598/</id>
     <published>2021-07-31T02:23:45.000Z</published>
-    <updated>2021-10-14T04:05:08.941Z</updated>
+    <updated>2022-04-15T07:41:09.222Z</updated>
     
     
       
@@ -219,7 +266,7 @@
     <link href="https://u.mr90.top/posts/49925/"/>
     <id>https://u.mr90.top/posts/49925/</id>
     <published>2021-07-29T00:50:00.000Z</published>
-    <updated>2021-10-14T04:05:08.941Z</updated>
+    <updated>2022-04-15T07:41:09.222Z</updated>
     
     
       
@@ -245,7 +292,7 @@
     <link href="https://u.mr90.top/posts/12627/"/>
     <id>https://u.mr90.top/posts/12627/</id>
     <published>2021-07-22T02:18:18.000Z</published>
-    <updated>2021-10-14T04:05:08.937Z</updated>
+    <updated>2022-04-15T07:41:09.214Z</updated>
     
     
       
@@ -270,7 +317,7 @@
     <link href="https://u.mr90.top/posts/12626/"/>
     <id>https://u.mr90.top/posts/12626/</id>
     <published>2021-07-20T02:18:18.000Z</published>
-    <updated>2021-10-14T04:05:08.941Z</updated>
+    <updated>2022-04-15T07:41:09.218Z</updated>
     
     
       
@@ -293,7 +340,7 @@
     <link href="https://u.mr90.top/posts/644213/"/>
     <id>https://u.mr90.top/posts/644213/</id>
     <published>2021-06-25T03:34:19.000Z</published>
-    <updated>2021-10-14T04:05:08.937Z</updated>
+    <updated>2022-04-15T07:41:09.218Z</updated>
     
     
       
@@ -318,7 +365,7 @@
     <link href="https://u.mr90.top/posts/56656/"/>
     <id>https://u.mr90.top/posts/56656/</id>
     <published>2021-06-18T03:10:00.000Z</published>
-    <updated>2021-10-14T04:05:08.937Z</updated>
+    <updated>2022-04-15T07:41:09.218Z</updated>
     
     
       
@@ -343,7 +390,7 @@
     <link href="https://u.mr90.top/posts/320026/"/>
     <id>https://u.mr90.top/posts/320026/</id>
     <published>2021-06-15T11:31:32.000Z</published>
-    <updated>2021-10-14T04:05:08.941Z</updated>
+    <updated>2022-04-15T07:41:09.222Z</updated>
     
     
       
@@ -369,7 +416,7 @@
     <link href="https://u.mr90.top/posts/16696/"/>
     <id>https://u.mr90.top/posts/16696/</id>
     <published>2021-06-01T11:31:32.000Z</published>
-    <updated>2021-10-14T04:05:08.941Z</updated>
+    <updated>2022-04-15T07:41:09.222Z</updated>
     
     
       
@@ -391,11 +438,34 @@
   </entry>
   
   <entry>
+    <title>卷积神经网络学习</title>
+    <link href="https://u.mr90.top/posts/27946123/"/>
+    <id>https://u.mr90.top/posts/27946123/</id>
+    <published>2021-04-15T04:50:59.000Z</published>
+    <updated>2022-04-15T07:41:09.214Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;为什么使用卷积运算&quot;&gt;&lt;a href=&quot;#为什么使用卷积运算&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="python" scheme="https://u.mr90.top/categories/python/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Python GUI之tkinter窗口视窗</title>
     <link href="https://u.mr90.top/posts/64935/"/>
     <id>https://u.mr90.top/posts/64935/</id>
     <published>2021-04-10T02:42:32.000Z</published>
-    <updated>2021-10-14T04:05:08.941Z</updated>
+    <updated>2022-04-15T07:41:09.222Z</updated>
     
     
       
@@ -421,7 +491,7 @@
     <link href="https://u.mr90.top/posts/60054/"/>
     <id>https://u.mr90.top/posts/60054/</id>
     <published>2021-04-02T12:59:09.000Z</published>
-    <updated>2021-10-14T04:05:08.941Z</updated>
+    <updated>2022-04-15T07:41:09.222Z</updated>
     
     
       
@@ -438,82 +508,6 @@
     <category term="web" scheme="https://u.mr90.top/categories/web/"/>
     
     <category term="wx" scheme="https://u.mr90.top/categories/web/wx/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>ajax的学习 整理</title>
-    <link href="https://u.mr90.top/posts/18286/"/>
-    <id>https://u.mr90.top/posts/18286/</id>
-    <published>2021-03-30T11:31:32.000Z</published>
-    <updated>2021-10-14T04:05:08.937Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;Ajax运行原理&quot;&gt;&lt;a href=&quot;#Ajax运行原理&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="web" scheme="https://u.mr90.top/categories/web/"/>
-    
-    <category term="ajax" scheme="https://u.mr90.top/categories/web/ajax/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Express 框架 知识总结</title>
-    <link href="https://u.mr90.top/posts/254/"/>
-    <id>https://u.mr90.top/posts/254/</id>
-    <published>2021-03-23T08:23:41.000Z</published>
-    <updated>2021-10-14T04:05:08.937Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;express框架&quot;&gt;&lt;a href=&quot;#express框架&quot; class=&quot;headerlink&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="web" scheme="https://u.mr90.top/categories/web/"/>
-    
-    <category term="node.js" scheme="https://u.mr90.top/categories/web/node-js/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Python中的正则表达式</title>
-    <link href="https://u.mr90.top/posts/59398/"/>
-    <id>https://u.mr90.top/posts/59398/</id>
-    <published>2021-03-18T03:00:34.000Z</published>
-    <updated>2021-10-14T04:05:08.941Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;正则表达式&quot;&gt;&lt;a href=&quot;#正则表达式&quot; class=&quot;headerlink&quot; title=&quot;正则表达式&quot;&gt;&lt;/a&gt;正则表达式&lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;规则表达式，匹配符合字符特征的模式&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3</summary>
-        
-      
-    
-    
-    
-    <category term="Python" scheme="https://u.mr90.top/categories/Python/"/>
     
     
   </entry>
