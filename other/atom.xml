@@ -6,7 +6,7 @@
   <link href="https://u.mr90.top/other/atom.xml" rel="self"/>
   
   <link href="https://u.mr90.top/"/>
-  <updated>2022-05-27T07:19:19.105Z</updated>
+  <updated>2022-06-22T08:59:46.830Z</updated>
   <id>https://u.mr90.top/</id>
   
   <author>
@@ -17,11 +17,39 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>React学习</title>
+    <link href="https://u.mr90.top/posts/3200262/"/>
+    <id>https://u.mr90.top/posts/3200262/</id>
+    <published>2022-05-15T11:31:32.000Z</published>
+    <updated>2022-06-22T08:59:46.830Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;来自B站李立超老师&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;React与传统MVC的关系&quot;&gt;&lt;a href=&quot;#React与传统MVC的关系&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="学习笔记" scheme="https://u.mr90.top/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="react" scheme="https://u.mr90.top/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/react/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>卷积神经网络学习</title>
     <link href="https://u.mr90.top/posts/27946123/"/>
     <id>https://u.mr90.top/posts/27946123/</id>
     <published>2022-04-15T04:50:59.000Z</published>
-    <updated>2022-05-27T07:19:19.105Z</updated>
+    <updated>2022-06-22T08:59:46.826Z</updated>
     
     
       
@@ -44,7 +72,7 @@
     <link href="https://u.mr90.top/posts/599851234/"/>
     <id>https://u.mr90.top/posts/599851234/</id>
     <published>2022-01-11T03:17:29.000Z</published>
-    <updated>2022-05-27T07:19:19.109Z</updated>
+    <updated>2022-06-22T08:59:46.826Z</updated>
     
     
       
@@ -67,7 +95,7 @@
     <link href="https://u.mr90.top/posts/644213dwa/"/>
     <id>https://u.mr90.top/posts/644213dwa/</id>
     <published>2021-12-01T03:34:19.000Z</published>
-    <updated>2022-05-27T07:19:19.109Z</updated>
+    <updated>2022-06-22T08:59:46.826Z</updated>
     
     
       
@@ -93,7 +121,7 @@
     <link href="https://u.mr90.top/posts/b5c4b274122/"/>
     <id>https://u.mr90.top/posts/b5c4b274122/</id>
     <published>2021-09-13T16:00:00.000Z</published>
-    <updated>2022-05-27T07:19:19.113Z</updated>
+    <updated>2022-06-22T08:59:46.830Z</updated>
     
     
       
@@ -116,7 +144,7 @@
     <link href="https://u.mr90.top/posts/b5c4b7412/"/>
     <id>https://u.mr90.top/posts/b5c4b7412/</id>
     <published>2021-09-11T16:00:00.000Z</published>
-    <updated>2022-05-27T07:19:19.109Z</updated>
+    <updated>2022-06-22T08:59:46.826Z</updated>
     
     
       
@@ -140,7 +168,7 @@
     <link href="https://u.mr90.top/posts/3171031/"/>
     <id>https://u.mr90.top/posts/3171031/</id>
     <published>2021-09-11T02:34:06.000Z</published>
-    <updated>2022-05-27T07:19:19.109Z</updated>
+    <updated>2022-06-22T08:59:46.826Z</updated>
     
     
       
@@ -165,7 +193,7 @@
     <link href="https://u.mr90.top/posts/31710/"/>
     <id>https://u.mr90.top/posts/31710/</id>
     <published>2021-08-22T02:34:06.000Z</published>
-    <updated>2022-05-27T07:19:19.109Z</updated>
+    <updated>2022-06-22T08:59:46.830Z</updated>
     
     
       
@@ -188,7 +216,7 @@
     <link href="https://u.mr90.top/posts/902/"/>
     <id>https://u.mr90.top/posts/902/</id>
     <published>2021-08-17T02:34:06.000Z</published>
-    <updated>2022-05-27T07:19:19.113Z</updated>
+    <updated>2022-06-22T08:59:46.830Z</updated>
     
     
       
@@ -214,7 +242,7 @@
     <link href="https://u.mr90.top/posts/22540/"/>
     <id>https://u.mr90.top/posts/22540/</id>
     <published>2021-08-08T02:34:06.000Z</published>
-    <updated>2022-05-27T07:19:19.113Z</updated>
+    <updated>2022-06-22T08:59:46.830Z</updated>
     
     
       
@@ -239,7 +267,7 @@
     <link href="https://u.mr90.top/posts/255/"/>
     <id>https://u.mr90.top/posts/255/</id>
     <published>2021-08-05T01:03:14.000Z</published>
-    <updated>2022-05-27T07:19:19.113Z</updated>
+    <updated>2022-06-22T08:59:46.830Z</updated>
     
     
       
@@ -264,7 +292,7 @@
     <link href="https://u.mr90.top/posts/35598/"/>
     <id>https://u.mr90.top/posts/35598/</id>
     <published>2021-07-31T02:23:45.000Z</published>
-    <updated>2022-05-27T07:19:19.113Z</updated>
+    <updated>2022-06-22T08:59:46.830Z</updated>
     
     
       
@@ -291,7 +319,7 @@
     <link href="https://u.mr90.top/posts/49925/"/>
     <id>https://u.mr90.top/posts/49925/</id>
     <published>2021-07-29T00:50:00.000Z</published>
-    <updated>2022-05-27T07:19:19.109Z</updated>
+    <updated>2022-06-22T08:59:46.830Z</updated>
     
     
       
@@ -317,7 +345,7 @@
     <link href="https://u.mr90.top/posts/12627/"/>
     <id>https://u.mr90.top/posts/12627/</id>
     <published>2021-07-22T02:18:18.000Z</published>
-    <updated>2022-05-27T07:19:19.105Z</updated>
+    <updated>2022-06-22T08:59:46.826Z</updated>
     
     
       
@@ -342,7 +370,7 @@
     <link href="https://u.mr90.top/posts/12626/"/>
     <id>https://u.mr90.top/posts/12626/</id>
     <published>2021-07-20T02:18:18.000Z</published>
-    <updated>2022-05-27T07:19:19.109Z</updated>
+    <updated>2022-06-22T08:59:46.826Z</updated>
     
     
       
@@ -361,11 +389,11 @@
   </entry>
   
   <entry>
-    <title>论文降重方法-web/python/exe</title>
+    <title>降重方法-web/python/exe</title>
     <link href="https://u.mr90.top/posts/644213/"/>
     <id>https://u.mr90.top/posts/644213/</id>
     <published>2021-06-25T03:34:19.000Z</published>
-    <updated>2022-05-27T07:19:19.109Z</updated>
+    <updated>2022-06-22T08:59:46.826Z</updated>
     
     
       
@@ -386,11 +414,11 @@
   </entry>
   
   <entry>
-    <title>毛概考试复习资料-整合</title>
+    <title>考试复习资料-整合</title>
     <link href="https://u.mr90.top/posts/56656/"/>
     <id>https://u.mr90.top/posts/56656/</id>
     <published>2021-06-18T03:10:00.000Z</published>
-    <updated>2022-05-27T07:19:19.109Z</updated>
+    <updated>2022-06-22T08:59:46.826Z</updated>
     
     
       
@@ -411,11 +439,11 @@
   </entry>
   
   <entry>
-    <title>git笔记整理</title>
+    <title>Git学习整理</title>
     <link href="https://u.mr90.top/posts/320026/"/>
     <id>https://u.mr90.top/posts/320026/</id>
     <published>2021-06-15T11:31:32.000Z</published>
-    <updated>2022-05-27T07:19:19.113Z</updated>
+    <updated>2022-06-22T08:59:46.830Z</updated>
     
     
       
@@ -441,7 +469,7 @@
     <link href="https://u.mr90.top/posts/16696/"/>
     <id>https://u.mr90.top/posts/16696/</id>
     <published>2021-06-01T11:31:32.000Z</published>
-    <updated>2022-05-27T07:19:19.113Z</updated>
+    <updated>2022-06-22T08:59:46.830Z</updated>
     
     
       
@@ -467,7 +495,7 @@
     <link href="https://u.mr90.top/posts/64935/"/>
     <id>https://u.mr90.top/posts/64935/</id>
     <published>2021-04-10T02:42:32.000Z</published>
-    <updated>2022-05-27T07:19:19.113Z</updated>
+    <updated>2022-06-22T08:59:46.830Z</updated>
     
     
       
@@ -484,32 +512,6 @@
     <category term="Python" scheme="https://u.mr90.top/categories/Python/"/>
     
     <category term="tkinter" scheme="https://u.mr90.top/categories/Python/tkinter/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>小程序的学习笔记</title>
-    <link href="https://u.mr90.top/posts/60054/"/>
-    <id>https://u.mr90.top/posts/60054/</id>
-    <published>2021-04-02T12:59:09.000Z</published>
-    <updated>2022-05-27T07:19:19.113Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;小程序文件分析&quot;&gt;&lt;a href=&quot;#小程序文件分析&quot; class=&quot;headerlink&quot; title=&quot;小程序文件分析&quot;&gt;&lt;/a&gt;小程序文件分析&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;&lt;code&gt;WXML WXSS JavaScript</summary>
-        
-      
-    
-    
-    
-    <category term="web" scheme="https://u.mr90.top/categories/web/"/>
-    
-    <category term="wx" scheme="https://u.mr90.top/categories/web/wx/"/>
     
     
   </entry>
