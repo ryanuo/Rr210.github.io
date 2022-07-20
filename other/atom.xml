@@ -6,7 +6,7 @@
   <link href="https://u.mr90.top/other/atom.xml" rel="self"/>
   
   <link href="https://u.mr90.top/"/>
-  <updated>2022-07-04T13:53:59.351Z</updated>
+  <updated>2022-07-20T13:37:05.913Z</updated>
   <id>https://u.mr90.top/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>回顾面试题</title>
+    <link href="https://u.mr90.top/posts/9ba325e65/"/>
+    <id>https://u.mr90.top/posts/9ba325e65/</id>
+    <published>2022-07-01T10:14:27.000Z</published>
+    <updated>2022-07-20T13:37:05.913Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;this指向问题&quot;&gt;&lt;a href=&quot;#this指向问题&quot; class=&quot;headerlink&quot; title=&quot;this指向问题&quot;&gt;&lt;/a&gt;this指向问题&lt;/h2&gt;&lt;h3 id=&quot;题1&quot;&gt;&lt;a href=&quot;#题1&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="面试题" scheme="https://u.mr90.top/categories/%E9%9D%A2%E8%AF%95%E9%A2%98/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Pinia学习笔记</title>
     <link href="https://u.mr90.top/posts/pinia332/"/>
     <id>https://u.mr90.top/posts/pinia332/</id>
     <published>2022-06-14T07:22:58.000Z</published>
-    <updated>2022-07-04T13:53:59.351Z</updated>
+    <updated>2022-07-20T13:37:05.921Z</updated>
     
     
       
@@ -49,7 +72,7 @@
     <link href="https://u.mr90.top/posts/3200262/"/>
     <id>https://u.mr90.top/posts/3200262/</id>
     <published>2022-05-15T11:31:32.000Z</published>
-    <updated>2022-07-04T13:53:59.351Z</updated>
+    <updated>2022-07-20T13:37:05.921Z</updated>
     
     
       
@@ -77,7 +100,7 @@
     <link href="https://u.mr90.top/posts/b5624w70d/"/>
     <id>https://u.mr90.top/posts/b5624w70d/</id>
     <published>2022-05-01T13:09:32.000Z</published>
-    <updated>2022-07-04T13:53:59.347Z</updated>
+    <updated>2022-07-20T13:37:05.909Z</updated>
     
     
       
@@ -100,7 +123,7 @@
     <link href="https://u.mr90.top/posts/27946123/"/>
     <id>https://u.mr90.top/posts/27946123/</id>
     <published>2022-04-15T04:50:59.000Z</published>
-    <updated>2022-07-04T13:53:59.347Z</updated>
+    <updated>2022-07-20T13:37:05.909Z</updated>
     
     
       
@@ -123,7 +146,7 @@
     <link href="https://u.mr90.top/posts/599851234/"/>
     <id>https://u.mr90.top/posts/599851234/</id>
     <published>2022-01-11T03:17:29.000Z</published>
-    <updated>2022-07-04T13:53:59.347Z</updated>
+    <updated>2022-07-20T13:37:05.913Z</updated>
     
     
       
@@ -146,7 +169,7 @@
     <link href="https://u.mr90.top/posts/644213dwa/"/>
     <id>https://u.mr90.top/posts/644213dwa/</id>
     <published>2021-12-01T03:34:19.000Z</published>
-    <updated>2022-07-04T13:53:59.347Z</updated>
+    <updated>2022-07-20T13:37:05.909Z</updated>
     
     
       
@@ -172,7 +195,7 @@
     <link href="https://u.mr90.top/posts/b5c4b274122/"/>
     <id>https://u.mr90.top/posts/b5c4b274122/</id>
     <published>2021-09-13T16:00:00.000Z</published>
-    <updated>2022-07-04T13:53:59.351Z</updated>
+    <updated>2022-07-20T13:37:05.921Z</updated>
     
     
       
@@ -195,7 +218,7 @@
     <link href="https://u.mr90.top/posts/b5c4b7412/"/>
     <id>https://u.mr90.top/posts/b5c4b7412/</id>
     <published>2021-09-11T16:00:00.000Z</published>
-    <updated>2022-07-04T13:53:59.347Z</updated>
+    <updated>2022-07-20T13:37:05.913Z</updated>
     
     
       
@@ -219,7 +242,7 @@
     <link href="https://u.mr90.top/posts/3171031/"/>
     <id>https://u.mr90.top/posts/3171031/</id>
     <published>2021-09-11T02:34:06.000Z</published>
-    <updated>2022-07-04T13:53:59.347Z</updated>
+    <updated>2022-07-20T13:37:05.913Z</updated>
     
     
       
@@ -244,7 +267,7 @@
     <link href="https://u.mr90.top/posts/31710/"/>
     <id>https://u.mr90.top/posts/31710/</id>
     <published>2021-08-22T02:34:06.000Z</published>
-    <updated>2022-07-04T13:53:59.351Z</updated>
+    <updated>2022-07-20T13:37:05.921Z</updated>
     
     
       
@@ -267,7 +290,7 @@
     <link href="https://u.mr90.top/posts/902/"/>
     <id>https://u.mr90.top/posts/902/</id>
     <published>2021-08-17T02:34:06.000Z</published>
-    <updated>2022-07-04T13:53:59.351Z</updated>
+    <updated>2022-07-20T13:37:05.921Z</updated>
     
     
       
@@ -293,7 +316,7 @@
     <link href="https://u.mr90.top/posts/22540/"/>
     <id>https://u.mr90.top/posts/22540/</id>
     <published>2021-08-08T02:34:06.000Z</published>
-    <updated>2022-07-04T13:53:59.351Z</updated>
+    <updated>2022-07-20T13:37:05.921Z</updated>
     
     
       
@@ -318,7 +341,7 @@
     <link href="https://u.mr90.top/posts/255/"/>
     <id>https://u.mr90.top/posts/255/</id>
     <published>2021-08-05T01:03:14.000Z</published>
-    <updated>2022-07-04T13:53:59.351Z</updated>
+    <updated>2022-07-20T13:37:05.921Z</updated>
     
     
       
@@ -343,7 +366,7 @@
     <link href="https://u.mr90.top/posts/35598/"/>
     <id>https://u.mr90.top/posts/35598/</id>
     <published>2021-07-31T02:23:45.000Z</published>
-    <updated>2022-07-04T13:53:59.351Z</updated>
+    <updated>2022-07-20T13:37:05.921Z</updated>
     
     
       
@@ -370,7 +393,7 @@
     <link href="https://u.mr90.top/posts/49925/"/>
     <id>https://u.mr90.top/posts/49925/</id>
     <published>2021-07-29T00:50:00.000Z</published>
-    <updated>2022-07-04T13:53:59.351Z</updated>
+    <updated>2022-07-20T13:37:05.921Z</updated>
     
     
       
@@ -396,7 +419,7 @@
     <link href="https://u.mr90.top/posts/12627/"/>
     <id>https://u.mr90.top/posts/12627/</id>
     <published>2021-07-22T02:18:18.000Z</published>
-    <updated>2022-07-04T13:53:59.347Z</updated>
+    <updated>2022-07-20T13:37:05.909Z</updated>
     
     
       
@@ -421,7 +444,7 @@
     <link href="https://u.mr90.top/posts/12626/"/>
     <id>https://u.mr90.top/posts/12626/</id>
     <published>2021-07-20T02:18:18.000Z</published>
-    <updated>2022-07-04T13:53:59.347Z</updated>
+    <updated>2022-07-20T13:37:05.913Z</updated>
     
     
       
@@ -444,7 +467,7 @@
     <link href="https://u.mr90.top/posts/644213/"/>
     <id>https://u.mr90.top/posts/644213/</id>
     <published>2021-06-25T03:34:19.000Z</published>
-    <updated>2022-07-04T13:53:59.347Z</updated>
+    <updated>2022-07-20T13:37:05.909Z</updated>
     
     
       
@@ -469,7 +492,7 @@
     <link href="https://u.mr90.top/posts/56656/"/>
     <id>https://u.mr90.top/posts/56656/</id>
     <published>2021-06-18T03:10:00.000Z</published>
-    <updated>2022-07-04T13:53:59.347Z</updated>
+    <updated>2022-07-20T13:37:05.913Z</updated>
     
     
       
@@ -485,32 +508,6 @@
     <category term="学习笔记" scheme="https://u.mr90.top/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     <category term="examing" scheme="https://u.mr90.top/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/examing/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Git学习整理</title>
-    <link href="https://u.mr90.top/posts/320026/"/>
-    <id>https://u.mr90.top/posts/320026/</id>
-    <published>2021-06-15T11:31:32.000Z</published>
-    <updated>2022-07-04T13:53:59.351Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;撤销&quot;&gt;&lt;a href=&quot;#撤销&quot; class=&quot;headerlink&quot; title=&quot;撤销&quot;&gt;&lt;/a&gt;撤销&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;用暂存区中的文件覆盖工作目录中的文件： &lt;code&gt;git checkout</summary>
-        
-      
-    
-    
-    
-    <category term="学习笔记" scheme="https://u.mr90.top/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
-    
-    <category term="git" scheme="https://u.mr90.top/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/git/"/>
     
     
   </entry>
